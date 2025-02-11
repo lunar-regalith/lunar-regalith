@@ -1,6 +1,7 @@
 Hi, I go by many names, you can call me Lua, or, if you prefer my GitHub username, Regalith.
 
 Current Projects include:
+- Signal, a wrapper library for Roblox RemoteEvents.
 - Scribe, a simple script/text editor
 - Slag, a custom Minecraft Server executable
 - Aegis, a cut-down Java-like programming language
