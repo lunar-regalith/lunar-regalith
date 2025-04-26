@@ -5,7 +5,7 @@ Current Projects include:
 - Scribe, a simple script/text editor
 - Slag, a custom Minecraft Server executable
 - Aegis, a cut-down Java-like programming language
-- Ashes, a third-person rogue-like made using Roblox Studio
+<!--- Ashes, a third-person rogue-like made using Roblox Studio --->
 
 Contacts:
 - Discord : lua3287
